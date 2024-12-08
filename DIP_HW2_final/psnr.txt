@@ -1,0 +1,4 @@
+gaussian_from_sinc 21.472155229295304
+gaussian estimated from gaussian: 21.364020605333724
+sinc_from_gaussian 19.301085938488526
+sinc estimated from sinc: 19.376740049793263
